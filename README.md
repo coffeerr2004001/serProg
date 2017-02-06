@@ -8,4 +8,4 @@ serProg 是一个使用python便携的命令行工具, 用于serT的烧写, 用�
 2. 向导式生成serT使用的配置文件config.json.
 3. 将固件与配置文件烧入芯片.
 
-[serProg](https://github.com/coffeerr2004001/serProg/wiki/serProg-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+[serProg使用说明](https://github.com/coffeerr2004001/serProg/wiki/serProg-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)

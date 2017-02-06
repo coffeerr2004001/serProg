@@ -1,0 +1,7 @@
+{
+"mqtt_server":"iot.eclipse.org",
+"mqtt_port":1883,
+"baudrate":115200,
+"sert_topic":"dataddxx",
+"end":"end"
+}

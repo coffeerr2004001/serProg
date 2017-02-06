@@ -1,0 +1,41 @@
+{
+"ver":1,
+
+"file":[
+	{
+	"filename":"boot_v1.6.bin",
+	"url":"http://a.vvlogic.com/boot_v1.6.bin",
+	"sha1":"3160a34d245dbb77cbfc1ff0e86db3dbb89b91dd",
+	"add":"0x0"
+	},
+		
+	{
+	"filename":"esp_init_data_default.bin",
+	"url":"http://a.vvlogic.com/esp_init_data_default.bin",
+	"sha1":"cf4d04ec6ebceefe5210b06464f0522f2f44d7c0",
+	"add":"0xfc000"
+	},
+		
+	{
+	"filename":"blank.bin",
+	"url":"http://a.vvlogic.com/blank.bin",
+	"sha1":"e0c66649d1434eca3435033a32634cb90cef0f31",
+	"add":"0xfe000"
+	},
+		
+	{
+	"filename":"config.json",
+	"url":"http://a.vvlogic.com/config.json",
+	"sha1":"",
+	"add":"0x6f000"
+	},
+		
+	{
+	"filename":"user1.1024.new.2.bin",
+	"url":"http://a.vvlogic.com/user1.1024.new.2.bin",
+	"sha1":"e4efbe6ce3ca867c7cb73aeca14607aaefc38dbf",
+	"add":"0x1000"
+	}	
+	]
+
+}
